@@ -1,1 +1,1 @@
-# 02-responsive-repository
+# 02-responsive-profile
