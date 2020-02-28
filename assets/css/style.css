@@ -188,7 +188,7 @@ img{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     text-align: center;
     position: relative;
-    bottom: 90px;
+    bottom: 0px;
     width:auto;
     padding:5px;
 }
